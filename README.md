@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh201206/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/yogesh201206/DSA/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
