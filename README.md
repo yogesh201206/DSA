@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
