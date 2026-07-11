@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yogesh201206/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh201206/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
