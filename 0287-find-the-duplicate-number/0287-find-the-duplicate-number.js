@@ -1,19 +1,18 @@
-var findDuplicate = function (nums) {
-    let l = 0;
-    let r = nums.length - 1;
-    while (l < r) {
-        const mid = (l + r) >> 1;
-        let cnt = 0;
-        for (const v of nums) {
-            if (v <= mid) {
-                ++cnt;
-            }
-        }
-        if (cnt > mid) {
-            r = mid;
-        } else {
-            l = mid + 1;
-        }
+var findDuplicate = function(nums) {
+    let slow = nums[0];
+    let fast = nums[0];
+
+    
+    do {
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+    } while (slow !== fast);
+
+    
+    slow = nums[0];
+    while (slow !== fast) {
+        slow = nums[slow];
+        fast = nums[fast];
     }
-    return l;
+    return slow;
 };
