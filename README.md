@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yogesh201206/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yogesh201206/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
