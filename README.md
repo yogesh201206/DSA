@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yogesh201206/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/yogesh201206/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh201206/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yogesh201206/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yogesh201206/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
