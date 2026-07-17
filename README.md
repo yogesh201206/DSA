@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -84,5 +85,10 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/yogesh201206/DSA/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
