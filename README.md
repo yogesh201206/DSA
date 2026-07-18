@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -86,9 +88,11 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yogesh201206/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
