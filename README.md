@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0011-container-with-most-water](https://github.com/yogesh201206/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yogesh201206/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/yogesh201206/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/yogesh201206/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yogesh201206/DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
