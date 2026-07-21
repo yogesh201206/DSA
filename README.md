@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yogesh201206/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/yogesh201206/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yogesh201206/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/yogesh201206/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,5 +101,10 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/yogesh201206/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yogesh201206/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/yogesh201206/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yogesh201206/DSA/tree/master/0567-permutation-in-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yogesh201206/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
