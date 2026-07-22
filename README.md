@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yogesh201206/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/yogesh201206/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/yogesh201206/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/yogesh201206/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yogesh201206/DSA/tree/master/0075-sort-colors) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogesh201206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/yogesh201206/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/yogesh201206/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yogesh201206/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yogesh201206/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yogesh201206/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yogesh201206/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
