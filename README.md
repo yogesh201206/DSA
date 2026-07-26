@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yogesh201206/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/yogesh201206/DSA/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -122,8 +123,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogesh201206/DSA/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/yogesh201206/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/yogesh201206/DSA/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/yogesh201206/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/yogesh201206/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
