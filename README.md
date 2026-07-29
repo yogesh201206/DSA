@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0496-next-greater-element-i](https://github.com/yogesh201206/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yogesh201206/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/yogesh201206/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yogesh201206/DSA/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/yogesh201206/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
