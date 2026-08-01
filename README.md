@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yogesh201206/DSA/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/yogesh201206/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogesh201206/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yogesh201206/DSA/tree/master/0704-binary-search) |
@@ -147,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/yogesh201206/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogesh201206/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
