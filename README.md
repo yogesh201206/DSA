@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0217-contains-duplicate](https://github.com/yogesh201206/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yogesh201206/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/yogesh201206/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/yogesh201206/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh201206/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yogesh201206/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yogesh201206/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/yogesh201206/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh201206/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yogesh201206/DSA/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
 ## Database
 |  |
 | ------- |
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0278-first-bad-version](https://github.com/yogesh201206/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/yogesh201206/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
