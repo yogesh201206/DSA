@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0643-maximum-average-subarray-i](https://github.com/yogesh201206/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yogesh201206/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yogesh201206/DSA/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/yogesh201206/DSA/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yogesh201206/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yogesh201206/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/yogesh201206/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh201206/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yogesh201206/DSA/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/yogesh201206/DSA/tree/master/0877-stone-game) |
 ## Database
 |  |
 | ------- |
@@ -161,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yogesh201206/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/yogesh201206/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
