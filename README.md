@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0739-daily-temperatures](https://github.com/yogesh201206/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yogesh201206/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yogesh201206/DSA/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogesh201206/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0374-guess-number-higher-or-lower](https://github.com/yogesh201206/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yogesh201206/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yogesh201206/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yogesh201206/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
