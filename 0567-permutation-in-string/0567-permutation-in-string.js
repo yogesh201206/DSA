@@ -1,9 +1,3 @@
-/**
- * Checks if s2 contains any permutation of s1
- * @param {string} s1
- * @param {string} s2
- * @return {boolean}
- */
 function checkInclusion(s1, s2) {
     // Edge case: if s1 is longer than s2, impossible
     if (s1.length > s2.length) return false;
